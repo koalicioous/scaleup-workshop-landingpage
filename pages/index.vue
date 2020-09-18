@@ -22,7 +22,7 @@
           Bikin bisnis anda buka 8 cabang dalam sebulan di era new normal!
         </div>
         <div class="headline-actions my-3 text-left mx-3">
-          <a href="wa.link/ol1huy" target="_blank" class="btn btn-lg btn-primary text-white px-5" style="border-radius:2rem">
+          <a href="http://wa.link/ol1huy" target="_blank" class="btn btn-lg btn-primary text-white px-5" style="border-radius:2rem">
             <b>
               DAFTAR SEKARANG
             </b>
@@ -30,7 +30,7 @@
         </div>
       </div>
       <div class="d-xs-none col-sm-12 col-md-5 col-lg-6 py-5">
-        <img src="~/assets/img/headline-image.svg" alt="" style="width:100%">
+        <img src="~assets/img/headline-image.svg" alt="" style="width:100%">
       </div>
     </div>
     
@@ -416,7 +416,7 @@
               <strike style="font-size:1rem">Rp 3.000.000</strike>
               <p>Rp 1.500.000</p>
             </div>
-            <a href="wa.link/ol1huy" target="_blank"  class="btn btn-outline-primary">
+            <a href="http://wa.link/ol1huy" target="_blank"  class="btn btn-outline-primary">
               <b>DAFTAR SEKARANG</b>
             </a>
           </div>
@@ -444,7 +444,7 @@
               <strike style="font-size:1rem">Rp 3.000.000</strike>
               <p>Rp 1.500.000</p>
             </div>
-            <a href="wa.link/ol1huy" target="_blank"  class="btn btn-outline-primary">
+            <a href="http://wa.link/ol1huy" target="_blank"  class="btn btn-outline-primary">
               <b>DAFTAR SEKARANG</b>
             </a>
           </div>
@@ -460,7 +460,7 @@
             <div class="headline-subtitle">
               <p>Hanya <br> Rp 3.000.000</p>
             </div>  
-            <a href="wa.link/ol1huy" target="_blank"  class="btn btn-primary">
+            <a href="http://wa.link/ol1huy" target="_blank"  class="btn btn-primary">
               <b>DAFTAR SEKARANG</b>
             </a>
           </div>
@@ -517,7 +517,7 @@
         <div class="headline-title-2 text-white text-center mt-4">
           Informasi Lebih Lanjut
         </div>
-        <a href="wa.link/ol1huy" target="_blank"  class="btn btn-lg btn-light px-5 my-5" style="border-radius:2rem">
+        <a href="http://wa.link/ol1huy" target="_blank"  class="btn btn-lg btn-light px-5 my-5" style="border-radius:2rem">
           <b>
             Hubungi Customer Service
           </b>
@@ -532,7 +532,7 @@
       </div>
     </div>
     <div class="fixed-bottom px-3">
-      <a href="wa.link/ol1huy" target="_blank"  class="btn btn-success ml-auto mr-auto d-md-none py-3" style="margin:1rem;width:100%">
+      <a href="http://wa.link/ol1huy" target="_blank"  class="btn btn-success ml-auto mr-auto d-md-none py-3" style="margin:1rem;width:100%">
         <b>DAFTAR MELALUI WHATSAPP</b>
       </a>
     </div>
