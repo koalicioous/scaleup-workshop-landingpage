@@ -30,7 +30,7 @@
         </div>
       </div>
       <div class="d-xs-none col-sm-12 col-md-5 col-lg-6 py-5">
-        <img src="~assets/img/headline-image.svg" alt="" style="width:100%">
+        <img src="/img/headline-image.svg" alt="" style="width:100%">
       </div>
     </div>
     
