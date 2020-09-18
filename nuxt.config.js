@@ -22,19 +22,25 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href:'https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'}
+    ],
+    script: [
+      { src: 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js' }
     ]
   },
   /*
   ** Global CSS
   */
   css: [
+    '@/assets/styles/app.scss'
   ],
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
+    '@/assets/index.js'
   ],
   /*
   ** Auto import components
@@ -70,5 +76,9 @@ export default {
   ** See https://nuxtjs.org/api/configuration-build/
   */
   build: {
+  },
+  server: {
+    port: 3000, // default: 3000
+    host: '192.168.43.61' // default: localhost
   }
 }
