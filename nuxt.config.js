@@ -11,7 +11,7 @@ export default {
   */
   target: 'static',
   router: {
-    base: ''
+    base: '/scaleup-workshop-landingpage/'
   },
   /*
   ** Headers of the page
