@@ -30,14 +30,14 @@
         </div>
       </div>
       <div class="d-xs-none col-sm-12 col-md-5 col-lg-6 py-5">
-        <img src="/img/headline-image.svg" alt="" style="width:100%">
+        <img src="/headline-image.svg" alt="" style="width:100%">
       </div>
     </div>
     
     <div class="my-5 container d-flex flex-wrap align-items-center justify-content-center text-center">
       <div class="col-md-10 d-flex flex-wrap shadow gcg-card card-body align-items-center p-3">
         <div class="col-md-6">
-          <img src="~/assets/img/master-franchise.svg" alt="" style="width:80%">
+          <img src="~assets/img/master-franchise.svg" alt="" style="width:80%">
         </div>
         <div class="col-md-6 my-5">
           <div class="headline-title-2">Apa yang Anda pelajari?</div>
