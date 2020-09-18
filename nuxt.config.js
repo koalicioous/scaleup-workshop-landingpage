@@ -11,7 +11,7 @@ export default {
   */
   target: 'static',
   router: {
-    base: '/scaleup-workshop-landingpage/'
+    base: ''
   },
   /*
   ** Headers of the page
@@ -25,7 +25,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/scaleup-workshop-landingpage/icon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/icon.png' },
       { rel: 'stylesheet', href:'https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'}
     ],
     script: [
