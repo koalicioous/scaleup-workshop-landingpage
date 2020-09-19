@@ -44,7 +44,6 @@ export default {
   */
   plugins: [
     '@/assets/index.js',
-    '@/plugins/facebook-pixel.js'
   ],
   /*
   ** Auto import components
@@ -64,6 +63,16 @@ export default {
     '@nuxtjs/axios',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
+    ['nuxt-facebook-pixel-module', {
+      /* module options */
+      track: 'PageView',
+      pixelId: '349770966144175',
+      disabled: false
+    },{
+      track: 'AddToCart',
+      pixelId: '349770966144175',
+      disabled: false
+    }],
   ],
   /*
   ** Axios module configuration
