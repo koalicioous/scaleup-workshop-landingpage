@@ -43,7 +43,8 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '@/assets/index.js'
+    '@/assets/index.js',
+    '@/plugins/facebook-pixel.js'
   ],
   /*
   ** Auto import components
