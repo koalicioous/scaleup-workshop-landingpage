@@ -350,7 +350,7 @@
                 <ul class="benefit-list-2">
                   <li>
                     <span style="color:#ffc400">&#10022;</span>
-                    Lulusan Masters of Public Administration, University of South Carolina, Columbia, USA tahun 1993;
+                    Lulusan Masters of Public Administration, University of Southern California, Los Angeles, USA tahun 1993;
                   </li>
                   <li>
                     <span style="color:#ffc400">&#10022;</span>
